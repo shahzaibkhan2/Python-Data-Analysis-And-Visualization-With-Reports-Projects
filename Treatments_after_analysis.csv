@@ -1,0 +1,350 @@
+,given_name,surname,hba1c_start,hba1c_end,hba1c_change,type,dosage_start,dosage_end,adverse_reaction
+0,Veronika,Jindrová,7.63,7.2,0.4299999999999997,auralin,41,48,no data
+1,Skye,Gormanston,7.97,7.62,0.34999999999999964,auralin,33,36,no data
+2,Sophia,Haugen,7.65,7.27,0.3800000000000008,auralin,37,42,no data
+3,Eddie,Archer,7.89,7.55,0.33999999999999986,auralin,31,38,no data
+4,Asia,Woźniak,7.76,7.37,0.3899999999999997,auralin,30,36,no data
+5,Joseph,Day,7.7,7.19,0.5099999999999998,auralin,29,36,hypoglycemia
+6,Roxanne,Andreyeva,9.54,9.14,0.3999999999999986,auralin,29,38,no data
+7,Simone,Baumgaertner,7.74,7.3,0.4400000000000004,auralin,27,37,no data
+8,Enco,Žibrik,7.78,7.34,0.4400000000000004,auralin,55,68,no data
+9,Camilla,Zaitseva,7.53,7.13,0.40000000000000036,auralin,28,37,no data
+10,Tekla,Walczak,7.61,7.29,0.3200000000000003,auralin,29,39,no data
+11,Brancaleone,Russo,8.61,8.18,0.4299999999999997,auralin,53,60,no data
+12,Isac,Berg,9.68,9.29,0.39000000000000057,auralin,31,41,no data
+13,Clinton,Miller,7.79,7.4,0.3899999999999997,auralin,42,51,throat irritation
+14,Eugene,Mironov,7.81,7.48,0.3299999999999992,auralin,42,49,no data
+15,Szilveszter,Totth,7.7,7.38,0.3200000000000003,auralin,35,39,no data
+16,Alexander,Mathiesen,7.96,7.55,0.41000000000000014,auralin,47,58,no data
+17,Chỉ,Lâm,7.68,7.24,0.4399999999999995,auralin,45,48,no data
+18,Władysław,Wieczorek,7.92,7.47,0.4500000000000002,auralin,24,37,no data
+19,Kristján,Ingason,7.92,7.57,0.34999999999999964,auralin,44,55,no data
+20,Marija,Grubišić,7.53,7.15,0.3799999999999999,auralin,37,43,no data
+21,Sauli,Koivuniemi,7.67,7.37,0.2999999999999998,auralin,43,47,no data
+22,Mariana,Souza,7.86,7.51,0.35000000000000053,auralin,36,42,no data
+23,Kristoffer,Martinsen,9.18,8.64,0.5399999999999991,auralin,29,37,no data
+24,Mỹ,Quynh,7.61,7.16,0.4500000000000002,auralin,57,64,no data
+25,Oles,Zhdanov,7.52,7.11,0.40999999999999925,auralin,54,67,no data
+26,Triana.,Terrazas,7.71,7.34,0.3700000000000001,auralin,34,42,no data
+27,Gabryŝ,Tomaszewski,7.87,7.47,0.40000000000000036,auralin,29,37,no data
+28,Leixandre,Alanis,7.74,7.32,0.41999999999999993,auralin,61,67,no data
+29,Onyekachukwu,Obinna,7.58,7.12,0.45999999999999996,auralin,37,46,no data
+30,Mijndert,Ouwendijk,7.81,7.5,0.3099999999999996,auralin,30,39,no data
+31,Coralie,Allaire,7.63,7.3,0.33000000000000007,auralin,39,46,no data
+32,Cumelén,Miramontes,7.71,7.33,0.3799999999999999,auralin,24,32,no data
+33,Louise,Johnson,7.63,7.32,0.3099999999999996,auralin,32,42,hypoglycemia
+34,Ivan,Fomin,9.12,8.73,0.3899999999999988,auralin,25,32,no data
+35,Mette,Sandgreen,7.56,7.08,0.47999999999999954,auralin,36,46,no data
+36,Julia,Werner,7.58,7.24,0.33999999999999986,auralin,35,40,no data
+37,Avdei,Tikhonov,7.77,7.27,0.5,auralin,27,36,no data
+38,Robert,Wagner,9.84,9.52,0.3200000000000003,auralin,43,49,no data
+39,Maya,Isaksson,7.66,7.17,0.4900000000000002,auralin,33,41,no data
+40,Furuta,Osman,7.52,7.18,0.33999999999999986,auralin,30,41,no data
+41,Nilton,Quintanilla,7.86,7.48,0.3799999999999999,auralin,42,49,no data
+42,Finley,Chandler,7.65,7.26,0.39000000000000057,auralin,31,45,headache
+43,Stefanie,Herman,7.72,7.3,0.41999999999999993,auralin,44,55,no data
+44,Karen,Jakobsen,7.59,7.25,0.33999999999999986,auralin,34,42,no data
+45,Jaakko,Eskelinen,7.73,7.42,0.3100000000000005,auralin,39,45,no data
+46,Idalia,Moore,8.34,7.9,0.4399999999999995,auralin,25,31,hypoglycemia
+47,Renzo,Lucchese,7.54,7.17,0.3700000000000001,auralin,53,64,no data
+48,Marius,Hansen,7.97,7.53,0.4399999999999995,auralin,41,47,no data
+49,Olof,Holm,7.85,7.43,0.41999999999999993,auralin,39,52,no data
+50,Kari,Laatikainen,7.5,7.11,0.3899999999999997,auralin,39,43,no data
+51,Xiuxiu,Chang,7.64,7.23,0.40999999999999925,auralin,32,41,hypoglycemia
+52,Yasmin,Silva,8.88,8.46,0.41999999999999993,auralin,36,44,no data
+53,Burrell,Mathieu,8.71,8.39,0.3200000000000003,auralin,46,58,no data
+54,Liisa,Seppälä,7.87,7.51,0.3600000000000003,auralin,36,47,no data
+55,Zikoranaudodimma,Chinedum,8.19,7.83,0.35999999999999943,auralin,41,51,no data
+56,Habte,Kifle,7.59,7.13,0.45999999999999996,auralin,42,48,no data
+57,Rafael,Costa,7.73,7.34,0.39000000000000057,auralin,50,60,no data
+58,Marcel,Peters,9.56,9.19,0.370000000000001,auralin,48,60,no data
+59,Kaodilinakachukwu,Nnonso,7.76,7.4,0.35999999999999943,auralin,63,68,no data
+60,Urso,Aranda,7.6,7.16,0.4399999999999995,auralin,30,38,no data
+61,Rut,Halldórsdóttir,9.01,8.63,0.379999999999999,auralin,31,40,no data
+63,Barbora,Vesecká,7.9,7.46,0.4400000000000004,auralin,29,45,no data
+64,Johana,Hrdá,7.79,7.49,0.2999999999999998,auralin,54,54,no data
+65,Nora,Nyborg,7.83,7.48,0.34999999999999964,auralin,55,59,no data
+66,Nicoline,Østergaard,7.84,7.57,0.2699999999999996,auralin,24,32,no data
+67,Ruman,Bisliev,7.72,7.39,0.33000000000000007,auralin,46,53,no data
+68,Hanna-mari,Filatov,7.71,7.3,0.41000000000000014,auralin,55,61,no data
+69,Muhammad,Holden,7.55,7.09,0.45999999999999996,auralin,29,37,no data
+70,Manuela,Cindrić,8.07,7.76,0.3100000000000005,auralin,55,66,no data
+71,Nile,Mehari,9.25,8.79,0.46000000000000085,auralin,40,53,no data
+72,Lewis,Webb,7.85,7.52,0.33000000000000007,auralin,39,44,no data
+73,Yunadi,Barsukov,9.47,9.05,0.41999999999999993,auralin,48,58,no data
+74,Harley,Tucker,7.97,7.64,0.33000000000000007,auralin,47,57,no data
+75,Rebecca,Priest,7.87,7.57,0.2999999999999998,auralin,40,42,no data
+76,Helen,Luwam,7.66,7.19,0.46999999999999975,auralin,32,42,no data
+77,Malik,Vaneker,7.55,7.12,0.4299999999999997,auralin,44,54,no data
+78,Felicijan,Bubanj,7.85,7.5,0.34999999999999964,auralin,62,75,no data
+79,Jeramy,Hopkins,8.02,7.67,0.34999999999999964,auralin,37,46,no data
+80,Annie,Allen,9.95,9.58,0.3699999999999992,auralin,36,42,no data
+81,Lamara,Dratchev,7.75,7.4,0.34999999999999964,auralin,49,58,no data
+82,Nadwah,Naifeh,7.97,7.52,0.4500000000000002,auralin,44,53,no data
+83,Benigna,Ferrari,7.78,7.36,0.41999999999999993,auralin,41,52,no data
+84,Sun,Ko,7.59,7.23,0.35999999999999943,auralin,33,39,no data
+85,Justyna,Kowalczyk,9.84,9.44,0.40000000000000036,auralin,24,34,no data
+86,Gabriele,Saenger,8.35,7.97,0.3799999999999999,auralin,22,30,hypoglycemia
+87,Mustafa,Adonay,7.79,7.34,0.4500000000000002,auralin,58,69,no data
+88,Marina,Glockner,7.88,7.55,0.33000000000000007,auralin,35,45,no data
+89,André,Nordin,7.6,7.27,0.33000000000000007,auralin,40,47,no data
+90,Samuel,Blix,7.97,7.56,0.41000000000000014,auralin,48,55,no data
+91,Kerman,Dandonneau,7.82,7.28,0.54,auralin,41,50,no data
+92,Jan,Baum,7.57,7.19,0.3799999999999999,auralin,53,57,no data
+93,Merci,Leroux,8.98,8.64,0.33999999999999986,auralin,27,33,hypoglycemia
+94,Chân,Bùi,7.53,7.18,0.35000000000000053,auralin,31,42,no data
+95,Mee,Chung,7.56,7.2,0.35999999999999943,auralin,42,56,no data
+96,Svanhvít,Guðjónsdóttir,7.57,7.11,0.45999999999999996,auralin,37,44,no data
+97,Minea,Lindgren,9.45,8.94,0.5099999999999998,auralin,38,45,no data
+98,Peter,Pospíšil,7.76,7.34,0.41999999999999993,auralin,51,60,no data
+99,Amalie,Christensen,7.88,7.55,0.33000000000000007,auralin,38,45,no data
+100,Nicolas,Ferreira,7.99,7.72,0.27000000000000046,auralin,43,51,no data
+101,Maximus,Henzen,7.79,7.34,0.4500000000000002,auralin,49,55,no data
+102,Jin,Kung,7.8,7.5,0.2999999999999998,auralin,55,60,no data
+103,Kári,Hervinsson,8.09,7.66,0.4299999999999997,auralin,37,43,no data
+104,Vanessa,Ferguson,7.97,7.58,0.3899999999999997,auralin,39,50,no data
+105,Nương,Vũ,7.68,7.29,0.3899999999999997,auralin,31,38,no data
+106,Alexander,Hueber,7.71,7.35,0.3600000000000003,auralin,35,38,no data
+107,Erick,Pinto,7.88,7.49,0.3899999999999997,auralin,44,54,no data
+108,Taylah,Mobourne,7.9,7.51,0.39000000000000057,auralin,41,50,no data
+109,Sinead,Reilly,7.76,7.39,0.3700000000000001,auralin,27,39,no data
+110,Veronica,Bogolyubova,7.69,7.31,0.3800000000000008,auralin,25,35,no data
+111,Anenechi,Chidi,7.64,7.31,0.33000000000000007,auralin,52,61,hypoglycemia
+112,Cintia,Csorba,8.49,8.0,0.4900000000000002,auralin,47,50,no data
+113,Erica,Macdonald,7.55,7.26,0.29000000000000004,auralin,33,39,no data
+114,Hawra',Tuma,7.93,7.56,0.3700000000000001,auralin,26,35,no data
+115,Sandra,Taylor,7.84,7.49,0.34999999999999964,auralin,51,58,no data
+116,Kisanet,Selassie,9.64,9.27,0.370000000000001,auralin,48,59,no data
+117,Arne,Jørgensen,9.65,9.31,0.33999999999999986,auralin,32,43,no data
+118,Hường,Lâm,7.66,7.29,0.3700000000000001,auralin,40,49,no data
+119,Manouck,Wubbels,7.66,7.4,0.2599999999999998,auralin,55,62,throat irritation
+120,Angel,Grant,7.93,7.47,0.45999999999999996,auralin,31,37,no data
+121,Tomáš,Navrátil,7.84,7.41,0.4299999999999997,auralin,24,36,no data
+122,Johanna,Dreher,7.77,7.34,0.4299999999999997,auralin,51,59,no data
+123,Brianna,Lansell,9.48,9.06,0.41999999999999993,auralin,39,47,no data
+124,Albino,Schiavone,7.56,7.15,0.40999999999999925,auralin,35,43,no data
+125,Jia li,Teng,7.66,7.32,0.33999999999999986,auralin,48,54,nausea
+126,Ilija,Horvat,7.77,7.38,0.3899999999999997,auralin,42,50,no data
+127,Alex,Crawford,7.69,7.3,0.39000000000000057,auralin,51,62,hypoglycemia
+128,Rebecca,Jephcott,7.96,7.57,0.3899999999999997,auralin,53,63,no data
+129,Ursula,Freud,7.75,7.46,0.29000000000000004,auralin,42,54,no data
+130,Mika,Martinsson,7.5,7.17,0.33000000000000007,auralin,34,43,no data
+131,Kate,Wilkinson,7.72,7.2,0.5199999999999996,auralin,36,39,no data
+132,Naja,Enoksen,7.98,7.59,0.39000000000000057,auralin,43,50,no data
+133,Albina,Zetticci,7.93,7.73,0.1999999999999993,auralin,45,51,no data
+134,Mathea,Lillebø,9.04,8.67,0.3699999999999992,auralin,23,36,no data
+135,Vallie,Prince,7.64,7.28,0.35999999999999943,auralin,31,38,no data
+136,Samúel,Guðbrandsson,8.0,7.64,0.3600000000000003,auralin,53,56,no data
+137,Jožka,Resanovič,7.56,7.22,0.33999999999999986,auralin,22,30,no data
+138,Inunnguaq,Heilmann,7.85,7.45,0.39999999999999947,auralin,57,67,no data
+139,Alwin,Svensson,7.78,7.34,0.4400000000000004,auralin,36,39,no data
+140,Amanda,Ribeiro,7.85,7.47,0.3799999999999999,auralin,36,44,no data
+141,Sara,Miles,7.53,7.12,0.41000000000000014,auralin,30,35,no data
+142,Frydryk,Adamski,7.75,7.27,0.4800000000000004,auralin,63,74,no data
+143,Gabriela,Michalčíková,8.37,7.97,0.39999999999999947,auralin,26,36,no data
+144,Bernarda,Cindrić,7.89,7.55,0.33999999999999986,auralin,40,49,no data
+145,Dani,Antoun,7.73,7.34,0.39000000000000057,auralin,36,44,no data
+146,Mijael,Guerra,7.85,7.46,0.3899999999999997,auralin,37,47,no data
+147,Emma,Barlow,7.85,7.39,0.45999999999999996,auralin,48,57,no data
+148,Flavia,Fiorentino,7.95,7.6,0.35000000000000053,auralin,46,57,cough
+149,Noe,Aranda,7.51,7.17,0.33999999999999986,auralin,26,34,hypoglycemia
+150,Seweryna,Czerwinska,7.66,7.3,0.3600000000000003,auralin,39,46,no data
+151,David,Villadsen,7.86,7.4,0.45999999999999996,auralin,26,39,no data
+152,Lóa,Hrafnsdóttir,7.6,7.09,0.5099999999999998,auralin,22,31,no data
+153,Siebrigje,Koldenhof,7.9,7.59,0.3100000000000005,auralin,30,38,no data
+154,Trifon,Izmailov,7.68,7.28,0.39999999999999947,auralin,58,63,no data
+155,Galit,Casárez,7.91,7.56,0.35000000000000053,auralin,27,37,no data
+156,Kifle,Mustafa,7.8,7.41,0.3899999999999997,auralin,42,50,no data
+157,Alvin,Jackson,7.62,7.23,0.3899999999999997,auralin,38,43,no data
+158,Chibuzo,Okoli,7.64,7.29,0.34999999999999964,auralin,28,33,no data
+159,Maryam,Dratchev,9.91,9.46,0.4499999999999993,auralin,37,45,no data
+160,Hans peter,Radislav,7.6,7.2,0.39999999999999947,auralin,42,53,no data
+161,Štefanija,Novosel,7.64,7.17,0.46999999999999975,auralin,37,42,no data
+162,Anja,Mueller,7.58,7.29,0.29000000000000004,auralin,43,56,no data
+163,Regolo,Nucci,7.53,7.02,0.5100000000000007,auralin,51,59,no data
+164,Vivien,Zsinkó,8.35,7.92,0.4299999999999997,auralin,30,38,no data
+165,Genet,Fesahaye,7.73,7.36,0.3700000000000001,auralin,25,35,no data
+166,Blanka,Jurković,7.77,7.33,0.4399999999999995,auralin,31,43,no data
+167,Joseph,Tucker,7.67,7.3,0.3700000000000001,auralin,48,56,no data
+168,Robert,Maslov,7.65,7.35,0.3000000000000007,auralin,55,68,no data
+169,Ella,Lund,7.57,7.21,0.3600000000000003,auralin,38,47,no data
+170,Fakhri,Fakhoury,7.83,7.39,0.4400000000000004,auralin,39,50,no data
+171,Žarka,Rap,7.54,7.15,0.3899999999999997,auralin,35,48,no data
+172,Rovzan,Kishiev,7.75,7.41,0.33999999999999986,auralin,32,37,no data
+173,Bernd,Schneider,7.74,7.44,0.2999999999999998,auralin,48,56,no data
+174,Armina,Sauvé,7.86,7.4,0.45999999999999996,auralin,36,46,no data
+175,Elliot,Richardson,7.56,7.09,0.46999999999999975,novodra,40,45,hypoglycemia
+176,Yukitaka,Takenaka,7.68,7.25,0.4299999999999997,novodra,39,36,no data
+177,Alissa,Montez,7.78,7.46,0.3200000000000003,novodra,33,29,no data
+178,Jasmine,Sykes,7.56,7.18,0.3799999999999999,novodra,42,44,hypoglycemia
+179,Saber,Ménard,8.08,7.7,0.3799999999999999,novodra,54,54,no data
+180,Kristiina,Hyypiä,7.87,7.49,0.3799999999999999,novodra,36,38,no data
+181,Gregor,Bole,7.61,7.16,0.4500000000000002,novodra,47,45,no data
+182,Gina,Cain,7.88,7.4,0.47999999999999954,novodra,36,36,no data
+183,Addolorata,Lombardi,7.75,7.33,0.41999999999999993,novodra,49,46,no data
+184,Khalid,Johnsrud,8.35,7.94,0.40999999999999925,novodra,54,54,no data
+185,Mile,Stanić,7.66,7.24,0.41999999999999993,novodra,47,48,no data
+186,Chiemela,Tobeolisa,7.59,7.17,0.41999999999999993,novodra,43,47,no data
+187,Benoît,Bonami,9.82,9.4,0.41999999999999993,novodra,44,43,no data
+188,Suhaim,Rahal,7.94,7.5,0.4400000000000004,novodra,49,47,no data
+189,Mizuki,Iwata,7.7,7.23,0.46999999999999975,novodra,45,46,no data
+190,Bao,She,9.09,8.62,0.47000000000000064,novodra,48,45,no data
+191,Laura,Ehrlichmann,7.95,7.46,0.4900000000000002,novodra,43,40,no data
+192,Cannan,Cabrera,7.94,7.58,0.3600000000000003,novodra,40,31,no data
+193,Csaba,Sági,7.88,7.48,0.39999999999999947,novodra,35,29,no data
+194,Krisztina,Magyar,7.52,7.01,0.5099999999999998,novodra,32,27,hypoglycemia
+195,Ásta,Grímsdóttir,7.62,7.16,0.45999999999999996,novodra,29,30,no data
+196,Mahmud,Kadyrov,7.53,7.11,0.41999999999999993,novodra,44,43,no data
+197,Jens,Poulsen,7.55,7.16,0.3899999999999997,novodra,36,32,no data
+198,Zdeněk,Synek,7.67,7.32,0.34999999999999964,novodra,31,31,no data
+199,Jad allah,Gaber,7.97,7.52,0.4500000000000002,novodra,38,41,no data
+200,Zak,Kelly,7.66,7.26,0.40000000000000036,novodra,38,38,no data
+201,Jackson,Addison,7.99,7.51,0.4800000000000004,novodra,42,42,no data
+202,Albinca,Komavec,7.89,7.46,0.4299999999999997,novodra,41,39,hypoglycemia
+203,Nasser,Mansour,7.51,7.06,0.4500000000000002,novodra,33,31,no data
+204,Juliusz,Majewski,7.78,7.31,0.47000000000000064,novodra,41,39,no data
+205,Klementyna,Sokołowska,7.98,7.53,0.4500000000000002,novodra,42,41,no data
+206,Hanka,Gegič,7.67,7.29,0.3799999999999999,novodra,19,27,no data
+207,Elisabeth,Dimmen,7.6,7.28,0.3199999999999994,novodra,41,36,no data
+208,Joe,Edwards,9.35,8.89,0.4599999999999991,novodra,36,37,no data
+209,Fatimah,Kinfe,7.88,7.56,0.3200000000000003,novodra,43,42,no data
+210,Tosh,Jensen,7.93,7.69,0.23999999999999932,novodra,51,48,no data
+211,Hugo,Collins,8.0,7.53,0.46999999999999975,novodra,53,55,no data
+212,Gabrielle,Bidwill,7.76,7.37,0.3899999999999997,novodra,44,49,no data
+213,Ole,Petersen,7.95,7.55,0.40000000000000036,novodra,29,32,hypoglycemia
+214,Mackenzie,Mckay,9.87,9.48,0.3899999999999988,novodra,44,43,no data
+215,Noriyuki,Sakai,7.58,7.16,0.41999999999999993,novodra,32,31,no data
+216,Placido,Udinesi,7.91,7.49,0.41999999999999993,novodra,38,41,no data
+217,Hideki,Haraguchi,7.59,7.05,0.54,novodra,37,35,no data
+218,Else,Andersen,7.98,7.6,0.3800000000000008,novodra,36,38,no data
+219,Ananías,Enríquez,7.58,7.07,0.5099999999999998,novodra,44,45,no data
+220,Yumena,Nakayama,7.76,7.35,0.41000000000000014,novodra,34,32,no data
+221,Michael,Kristensen,8.51,8.08,0.4299999999999997,novodra,40,39,no data
+222,Sousuke,Nakahara,7.91,7.49,0.41999999999999993,novodra,37,35,no data
+223,Melisa,Mata,8.56,8.27,0.2900000000000009,novodra,57,57,no data
+224,Kwasi,Mensa,8.29,7.89,0.39999999999999947,novodra,40,36,no data
+225,Abdul-nur,Isa,7.98,7.53,0.4500000000000002,novodra,54,50,hypoglycemia
+226,Niels,Lange,7.58,7.21,0.3700000000000001,novodra,43,38,no data
+227,Abel,Yonatan,7.88,7.5,0.3799999999999999,novodra,38,39,cough
+228,Kai,Cunha,7.81,7.42,0.3899999999999997,novodra,37,36,no data
+229,Markus,Solberg,7.95,7.57,0.3799999999999999,novodra,35,30,no data
+230,Bội,Tạ,7.73,7.32,0.41000000000000014,novodra,41,40,no data
+231,Søren,Frederiksen,7.71,7.31,0.40000000000000036,novodra,56,58,no data
+232,Finlay,Sheppard,7.51,7.17,0.33999999999999986,novodra,31,30,no data
+233,Sofia,Karlsen,7.62,7.15,0.46999999999999975,novodra,35,29,no data
+234,Flaviano,Endrizzi,7.93,7.56,0.3700000000000001,novodra,46,43,no data
+235,Mùi,Lương,7.74,7.32,0.41999999999999993,novodra,52,50,no data
+236,Suoma,Koivunen,7.59,7.13,0.45999999999999996,novodra,26,25,no data
+237,Mevla,Grabljevec,7.72,7.44,0.27999999999999936,novodra,51,55,no data
+238,Sabr,Amari,7.94,7.57,0.3700000000000001,novodra,32,27,no data
+239,Javier,Moquin,8.0,7.59,0.41000000000000014,novodra,30,32,no data
+240,Mgbankwo,Afamefuna,7.55,7.18,0.3700000000000001,novodra,36,37,no data
+241,Nate,Bowden,9.81,9.3,0.5099999999999998,novodra,48,47,no data
+242,Jowita,Wiśniewska,7.5,7.08,0.41999999999999993,novodra,22,23,no data
+243,Farizah,Sleiman,7.8,7.4,0.39999999999999947,novodra,50,50,no data
+244,David,Gustafsson,7.72,7.28,0.4399999999999995,novodra,33,34,no data
+245,Kamila,Pecinová,7.77,7.39,0.3799999999999999,novodra,54,51,no data
+246,Søren,Sørensen,7.93,7.59,0.33999999999999986,novodra,41,39,no data
+247,Vasco,Van de wiel,7.94,7.51,0.4300000000000006,novodra,31,29,no data
+248,Kwemtochukwu,Ogochukwu,7.86,7.53,0.33000000000000007,novodra,34,37,no data
+249,Ivona,Jakšić,7.98,7.54,0.4400000000000004,novodra,41,41,no data
+250,Giovana,Rocha,7.87,7.38,0.4900000000000002,novodra,23,21,no data
+251,Jesse,Luoma,7.72,7.35,0.3700000000000001,novodra,39,37,no data
+252,Stephen,Mayberry,7.82,7.47,0.35000000000000053,novodra,40,39,no data
+253,Krisztián,Bakos,7.75,7.29,0.45999999999999996,novodra,60,60,no data
+254,Mustafa,Lindström,7.92,7.6,0.3200000000000003,novodra,35,33,no data
+255,Nicole,Zimmerman,8.98,8.57,0.41000000000000014,novodra,59,56,no data
+256,Saidmohmad,Rushisvili,7.9,7.48,0.41999999999999993,novodra,49,46,no data
+257,Russom,Amanuel,7.86,7.4,0.45999999999999996,novodra,39,36,no data
+258,Chidalu,Onyekaozulu,7.54,7.27,0.27000000000000046,novodra,42,41,no data
+259,Asuna,Morita,7.58,7.25,0.33000000000000007,novodra,35,39,no data
+260,Sandy,Gunnarsson,7.97,7.45,0.5199999999999996,novodra,41,44,no data
+261,Malina,Balagić,7.65,7.3,0.35000000000000053,novodra,48,50,no data
+262,Kong,Lei,7.58,7.15,0.4299999999999997,novodra,32,30,no data
+263,Kajsa,Eidem,7.77,7.34,0.4299999999999997,novodra,41,38,no data
+264,Tegan,Johnson,7.79,7.43,0.3600000000000003,novodra,34,34,headache
+265,Leah,Wong,7.79,7.42,0.3700000000000001,novodra,28,31,no data
+266,Fraser,Hunter,7.7,7.42,0.28000000000000025,novodra,36,32,no data
+267,León,Reynoso,7.59,7.06,0.5300000000000002,novodra,38,40,no data
+268,Bouke,Glaser,7.72,7.34,0.3799999999999999,novodra,26,30,no data
+269,Martha,Afanasyeva,7.81,7.39,0.41999999999999993,novodra,34,41,no data
+270,Monika,Lončar,9.13,8.72,0.41000000000000014,novodra,49,46,hypoglycemia
+271,Valur,Bjarkason,9.71,9.41,0.3000000000000007,novodra,31,36,no data
+272,Eufrosina,Schiavone,9.0,8.56,0.4399999999999995,novodra,23,23,no data
+273,Angelico,Marchesi,7.62,7.18,0.4400000000000004,novodra,58,58,no data
+274,Novalie,Berg,7.85,7.49,0.35999999999999943,novodra,32,31,no data
+275,Lena,Baer,7.7,7.4,0.2999999999999998,novodra,41,38,hypoglycemia
+276,Martina,Tománková,7.83,7.36,0.46999999999999975,novodra,50,57,no data
+277,Willem-jan,Van der lubbe,7.57,7.2,0.3700000000000001,novodra,40,40,no data
+278,Najla,Touma,7.66,7.31,0.35000000000000053,novodra,39,44,no data
+279,Emy,Markus,7.53,7.14,0.39000000000000057,novodra,29,24,no data
+280,Katrine,Lynge,7.6,7.13,0.46999999999999975,novodra,43,42,no data
+281,Cecilie,Nilsen,9.63,9.21,0.41999999999999993,novodra,49,50,hypoglycemia
+282,Adib,Ghanem,7.59,7.12,0.46999999999999975,novodra,46,49,no data
+283,Þórunn,Tryggvadóttir,7.98,7.51,0.47000000000000064,novodra,30,32,no data
+284,Sirkka,Piirainen,8.9,8.59,0.3100000000000005,novodra,26,24,no data
+285,Diệt,Bùi,9.11,8.76,0.34999999999999964,novodra,30,32,no data
+286,Torben,Mortensen,7.8,7.4,0.39999999999999947,novodra,44,40,no data
+287,Liêm,Phan,7.58,7.1,0.4800000000000004,novodra,43,48,no data
+288,Daud,Batukayev,7.98,7.51,0.47000000000000064,novodra,37,30,no data
+289,Eric,Ek,7.92,7.47,0.4500000000000002,novodra,51,47,no data
+290,Pamela,Hill,9.53,9.1,0.4299999999999997,novodra,27,29,no data
+291,Haylom,Nebay,7.62,7.22,0.40000000000000036,novodra,42,44,no data
+292,Eemil,Laine,7.89,7.53,0.35999999999999943,novodra,30,29,no data
+293,Anja,Hueber,8.82,8.36,0.46000000000000085,novodra,31,32,no data
+294,Linda,Lundy,7.97,7.52,0.4500000000000002,novodra,48,53,no data
+295,Rocco,Christie,7.96,7.62,0.33999999999999986,novodra,42,40,no data
+296,Elisabetta,Lorenzo,7.78,7.42,0.3600000000000003,novodra,28,24,no data
+297,Fareeq,Kalb,7.97,7.59,0.3799999999999999,novodra,51,54,no data
+298,Sargent,Flamand,7.92,7.49,0.4299999999999997,novodra,47,39,no data
+299,Wu,Sung,7.61,7.12,0.4900000000000002,novodra,47,48,no data
+300,Kang,Mai,7.78,7.45,0.33000000000000007,novodra,39,36,injection site discomfort
+301,Chen,Yao,7.9,7.51,0.39000000000000057,novodra,56,57,no data
+302,Aksel,Vestergaard,9.62,9.29,0.33000000000000007,novodra,42,38,no data
+303,Ellen,Luman,9.27,8.77,0.5,novodra,40,39,no data
+304,Jose,Combs,7.89,7.42,0.46999999999999975,novodra,39,36,no data
+305,Mathilde,Nørgaard,8.5,8.1,0.40000000000000036,novodra,27,28,no data
+306,Csilla,Herczegh,7.71,7.27,0.4400000000000004,novodra,43,46,no data
+307,Aaliyah,Rice,7.64,7.33,0.3099999999999996,novodra,31,31,no data
+308,David,Beauvais,7.87,7.47,0.40000000000000036,novodra,26,23,no data
+309,Caroline,Shuler,7.63,7.27,0.3600000000000003,novodra,50,54,no data
+310,Chukwumoge,Ogochukwu,7.95,7.56,0.39000000000000057,novodra,41,39,no data
+311,Fearne,Mcgregor,7.83,7.48,0.34999999999999964,novodra,27,29,no data
+312,Leon,Scholz,7.72,7.29,0.4299999999999997,novodra,38,32,injection site discomfort
+313,Yasmin,Araujo,7.82,7.36,0.45999999999999996,novodra,51,54,no data
+314,Hiromu,Horikawa,7.77,7.28,0.4899999999999993,novodra,47,46,no data
+315,Leo,Vieira,7.74,7.36,0.3799999999999999,novodra,30,33,no data
+316,Steven,Roy,7.87,7.43,0.4400000000000004,novodra,41,43,headache
+317,John,Teichelmann,7.9,7.58,0.3200000000000003,novodra,49,49,no data
+318,Thể,Lương,7.64,7.22,0.41999999999999993,novodra,61,64,no data
+319,Meya,Sjöberg,7.77,7.42,0.34999999999999964,novodra,42,42,no data
+320,Jane,Citizen,7.98,7.6,0.3800000000000008,novodra,37,38,no data
+321,Angela,Lavrentyev,7.61,7.14,0.47000000000000064,novodra,28,24,no data
+322,Edelma,Villalpando,7.99,7.56,0.4300000000000006,novodra,24,26,no data
+323,Annika,Vaara,7.73,7.34,0.39000000000000057,novodra,20,21,no data
+324,Chiho,Higa,7.71,7.3,0.41000000000000014,novodra,46,46,no data
+325,Beatrycze,Woźniak,7.54,7.17,0.3700000000000001,novodra,26,27,no data
+326,Miłosław,Wiśniewski,7.51,7.08,0.4299999999999997,novodra,34,33,injection site discomfort
+327,Firenze,Fodor,7.89,7.55,0.33999999999999986,novodra,30,35,no data
+328,Zoe,Wellish,7.71,7.3,0.41000000000000014,novodra,33,33,no data
+329,Una,Traustadóttir,8.0,7.5,0.5,novodra,35,34,no data
+330,Luboš,Pecha,7.79,7.45,0.33999999999999986,novodra,30,27,no data
+331,Meaza,Brhane,7.7,7.36,0.33999999999999986,novodra,37,41,no data
+332,Adlan,Shishani,7.84,7.37,0.46999999999999975,novodra,43,40,no data
+333,Sofia,Hermansen,8.9,8.57,0.33000000000000007,novodra,34,34,injection site discomfort
+334,Guðni,Heimisson,7.64,7.24,0.39999999999999947,novodra,40,36,no data
+335,Eufemio,Rosario,7.54,7.26,0.28000000000000025,novodra,37,40,no data
+336,Dalmacia,Madrid,7.67,7.21,0.45999999999999996,novodra,26,23,no data
+337,Daimy,Tromp,9.41,8.94,0.47000000000000064,novodra,40,45,no data
+338,Jeremy,Montagu,7.68,7.36,0.3199999999999994,novodra,52,52,no data
+339,Nebechi,Ekechukwu,7.78,7.39,0.39000000000000057,novodra,37,39,no data
+340,Satsita,Batukayev,7.63,7.25,0.3799999999999999,novodra,42,42,no data
+341,Timothy,Cotton,7.92,7.52,0.40000000000000036,novodra,26,25,no data
+342,Bjørnar,Nilsen,7.99,7.7,0.29000000000000004,novodra,36,33,no data
+343,Borna,Šlezinger,7.55,7.18,0.3700000000000001,novodra,42,41,no data
+344,Mary,Adams,7.65,7.26,0.39000000000000057,novodra,32,33,no data
+345,Christopher,Woodward,7.51,7.06,0.4500000000000002,novodra,55,51,nausea
+346,Maret,Sultygov,7.67,7.3,0.3700000000000001,novodra,26,23,no data
+347,Lixue,Hsueh,9.21,8.8,0.41000000000000014,novodra,22,23,injection site discomfort
+348,Jakob,Jakobsen,7.96,7.51,0.4500000000000002,novodra,28,26,hypoglycemia
+349,Berta,Napolitani,7.68,7.21,0.46999999999999975,novodra,42,44,injection site discomfort
