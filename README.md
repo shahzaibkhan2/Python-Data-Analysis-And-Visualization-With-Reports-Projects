@@ -1,2 +1,2 @@
-# Python-Novodra-Auralin-trials-Data-Analysis-Visualization
-this repository includes Novodra and Auralin Trials data wrangling, cleaning, exploration and visualization using python and its modules
+# Python-Data-Analysis-And-Visualization-Projects
+this repository includes Data Wrangling, Cleaning, Exploration and Pisualization using Python and Modules like Pandas, Numpy, Matplotlib, Seaborn and MS Office 2022.
