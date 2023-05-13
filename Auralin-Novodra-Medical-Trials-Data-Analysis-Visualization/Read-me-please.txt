@@ -1,0 +1,15 @@
+                             DATA WRANGLING, CLEANING, ANALYSIS AND VISUALIZATION
+----------> you need a 3rd party software like vscode and pycharm etc. to open these codes
+----------> 4 tables were given for wrangling, cleaning, analysis and visualization
+----------> there is some technical issue with contact column of the patients dataframe.
+(i) patients.csv
+(ii)treatments.csv
+(iii)treatments_cut.csv
+(iv)adverse_reaction.csv
+----------> finally made 2 tables after analysis and visualization
+(i)treatments_after_analysis.csv
+(ii)patients_after_analysis.csv
+----------> i have also provided a pdf file for better readibility
+(i)auralin_novodra_trials
+
+----------> this dataset is about auralin and novodra medication tests to show close similarities between them
